@@ -5,7 +5,7 @@
   Sou do interior do Ceará, tenho 22 anos e sou desenvolvedor web iniciante e estudo programação a mais de dois anos. Tenho experiência com HTML, CSS, Bootstrap, Java (básico), Python (básico) e estou atualmente focado em estudar o back end com NODE.JS. Iniciei o curso de ADS mas não prossegui por conta da pandemia e sigo meus estudos em plataformas de cursos como Curso em Vídeo e Udemy, além de ler a boa e velha documentação haha. Gosto muito de lógica de programação e aprimoro o meu pensamento de lógica lendo livros bases de lógica e algoritmos. 
   
 ## Tecnologias que utilizo:
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><nobr>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
