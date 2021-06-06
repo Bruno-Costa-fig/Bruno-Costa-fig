@@ -2,7 +2,11 @@
 
 ## Hello devs! 👋
 
-Sou do interior do Ceará, tenho 22 anos, sou desenvolvedor web iniciante e estudo programação a mais de dois anos. Tenho experiência com Front-End e estou atualmente focado em estudar o Back-End com NODE.JS. Iniciei o curso de ADS mas não prossegui por conta da pandemia e sigo meus estudos em plataformas de cursos como Curso em Vídeo e Udemy, além de ler a boa e velha documentação (haha). Gosto muito de lógica de programação e aprimoro o meu pensamento de lógica lendo livros bases de lógica e algoritmos como o <i>Algoritmos - lógica para desenvolvimento de programação de computadores</i> de José Augusto Manzano e Jayr Figueiredo. 
+Sou do interior do Ceará, tenho 22 anos, sou desenvolvedor web Júnior e estudo programação a mais de dois anos. Tenho experiência com Front-End e estou atualmente focado em estudar mais o Back-End com NODE.JS. Iniciei o curso de ADS mas não prossegui por conta da pandemia e sigo meus estudos em plataformas de cursos como Curso em Vídeo e Udemy, além de ler a boa e velha documentação (haha). Gosto muito de lógica de programação e aprimoro o meu pensamento de lógica lendo livros bases de lógica e algoritmos como o <i>Algoritmos - lógica para desenvolvimento de programação de computadores</i> de José Augusto Manzano e Jayr Figueiredo. 
+
+## Resumo:
+
+Designer Gráfico e Desenvolvedor Web Júnior focado em tecnologias web como HTML, CSS e JavaScript, Bootstrap, React e Node.JS. Possuo também formação técnica de nível médio em Edificações.
   
 ## Tecnologias que utilizo:
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><nobr>
