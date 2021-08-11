@@ -7,6 +7,10 @@ Sou do interior do Ceará, tenho 22 anos, sou desenvolvedor web Júnior e estudo
 ## Resumo:
 
 Designer Gráfico e Desenvolvedor Web Júnior focado em tecnologias web como HTML, CSS e JavaScript, Bootstrap, React e Node.JS. Possuo também formação técnica de nível médio em Edificações.
+
+## Portfólio:
+
+<a href="https://bruno-costa-fig.github.io/portfolio/">Clique aqui para ver meu portfólio.</a>
   
 ## Tecnologias que utilizo:
 
