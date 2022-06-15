@@ -2,11 +2,11 @@
 
 ## Hello devs! 👋
 
-Sou do interior do Ceará, tenho 22 anos, sou desenvolvedor web Júnior e estudo programação a aproximadamente dois anos. Tenho experiência com Front-End e estou atualmente focado em estudar mais o Back-End com NODE.JS. Iniciei o curso de ADS mas não prossegui por conta da pandemia e sigo meus estudos em plataformas de cursos como Curso em Vídeo, Udemy, Alura e DIO, além de ler a boa e velha documentação. Gosto muito de lógica de programação e aprimoro o meu pensamento de lógica lendo livros bases de lógica e algoritmos como o <i>Algoritmos - lógica para desenvolvimento de programação de computadores</i> de José Augusto Manzano e Jayr Figueiredo. 
+Sou do interior do Ceará, tenho 23 anos, sou desenvolvedor web e estudo programação à três anos. Sou graduando em Análise e Desenvolvimento de Sistemas pela UNIASSELVI. Trabalho atualmente como PJ na ZDZCode como FullStack com C#(.NET) e VueJS. Gosto muito de lógica de programação e aprimoro o meu pensamento de lógica lendo livros bases de lógica e algoritmos como o <i>Algoritmos - lógica para desenvolvimento de programação de computadores</i> de José Augusto Manzano e Jayr Figueiredo. 
 
 ## Resumo:
 
-Designer Gráfico e Desenvolvedor Web Júnior focado em tecnologias web como HTML, CSS e JavaScript, Bootstrap, React e Node.JS. Possuo também formação técnica de nível médio em Edificações.
+Designer Gráfico e Desenvolvedor Web e trabalho com tecnologias web como HTML, CSS e JavaScript, Bootstrap, React, VueJS, Node.JS e C#. Possuo também formação técnica de nível médio em Edificações.
 
 ## Portfólio:
 
