@@ -1,16 +1,32 @@
 ## Bruno Costa Figueiredo
 
-## Hello devs! 👋
+Desenvolvedor de Software Full-Stack apaixonado por tecnologias | Mentor Educacional de TI | Transitei do design gráfico para a TI em 2021 | Experiência em desenvolvimento e manutenção de sistemas | Compartilhando conhecimento sobre Front-End no YouTube e também no Instagram: @brunocostadev
 
-Sou do interior do Ceará, tenho 23 anos, sou desenvolvedor web e estudo programação à três anos. Sou graduando em Análise e Desenvolvimento de Sistemas pela UNIASSELVI. Trabalho atualmente como PJ na ZDZCode como FullStack com C#(.NET) e VueJS. Gosto muito de lógica de programação e aprimoro o meu pensamento de lógica lendo livros bases de lógica e algoritmos como o <i>Algoritmos - lógica para desenvolvimento de programação de computadores</i> de José Augusto Manzano e Jayr Figueiredo. 
+Link do canal no Youtube: https://www.youtube.com/channel/UCqVDq8KaKhsSsPf-uRTqGEw
 
-## Resumo:
+Principais conhecimentos técnicos:
 
-Designer Gráfico e Desenvolvedor Web e trabalho com tecnologias web como HTML, CSS e JavaScript, Bootstrap, React, VueJS, Node.JS e C#. Possuo também formação técnica de nível médio em Edificações.
+# FRONTEND
+● React.js / Next.js / Vue.js /NuxtJs
+● MUI / Vuetify / Bootstrap / Tailwind
+● Axios / FetchAPI
+● Testes Unitários e de integração
+● HTML / CSS / SASS / JSX
+● Vuex / Pinia / Redux
+
+
+# BACKEND
+● C# e .net / Entity Framework
+● NodeJs / Express / Sequelize
+● Postman
+● Firebase
+● MySQL / PostgreSQL / SQLServer
+●  POO / MVC / SOLID
+●  Git / GitHub / GitFlow
 
 ## Portfólio:
 
-<a href="https://bruno-costa-fig.github.io/portfolio/">Clique aqui para ver meu portfólio.</a>
+<a href="https://brunocostadev.web.app">Clique aqui para ver meu portfólio.</a>
   
 ## Tecnologias que utilizo:
 
