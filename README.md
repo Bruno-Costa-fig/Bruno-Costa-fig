@@ -1,28 +1,10 @@
-## Bruno Costa Figueiredo
+# Bruno Costa Figueiredo
 
 Desenvolvedor de Software Full-Stack apaixonado por tecnologias | Mentor Educacional de TI | Transitei do design gráfico para a TI em 2021 | Experiência em desenvolvimento e manutenção de sistemas | Compartilhando conhecimento sobre Front-End no YouTube e também no Instagram: @brunocostadev
 
 Link do canal no Youtube: https://www.youtube.com/channel/UCqVDq8KaKhsSsPf-uRTqGEw
 
 Principais conhecimentos técnicos:
-
-# FRONTEND
-● React.js / Next.js / Vue.js /NuxtJs
-● MUI / Vuetify / Bootstrap / Tailwind
-● Axios / FetchAPI
-● Testes Unitários e de integração
-● HTML / CSS / SASS / JSX
-● Vuex / Pinia / Redux
-
-
-# BACKEND
-● C# e .net / Entity Framework
-● NodeJs / Express / Sequelize
-● Postman
-● Firebase
-● MySQL / PostgreSQL / SQLServer
-●  POO / MVC / SOLID
-●  Git / GitHub / GitFlow
 
 ## Portfólio:
 
